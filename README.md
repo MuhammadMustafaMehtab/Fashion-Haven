@@ -1,12 +1,12 @@
-🛍️ Fashion Haven – Static E-commerce Landing Page
-📌 Overview
+ Fashion Haven – Static E-commerce Landing Page
+ Overview
 
 Fashion Haven is a static e-commerce landing page created using pure HTML5 and CSS3.
 This project was built right after completing my core HTML and CSS learning phase to apply layout structuring, section organisation, and styling concepts in a real-world design.
 
 The goal of this project was to practice building a complete website layout from scratch without using any frameworks or external libraries.
 
-🎯 Project Purpose
+ Project Purpose
 
 This landing page was developed to strengthen my understanding of:
 
@@ -24,7 +24,7 @@ Navigation bar and footer structuring
 
 It represents my early frontend development practice and foundational skills.
 
-✨ Features
+ Features
 
 Hero section with promotional banner
 
@@ -40,7 +40,7 @@ Contact section with form layout
 
 Structured footer with navigation links
 
-🛠️ Technologies Used
+ Technologies Used
 
 HTML5
 
@@ -49,7 +49,7 @@ CSS3
 No frameworks or libraries were used in this project.
 
 
-📚 What I Learned
+ What I Learned
 
 Through this project, I improved my ability to:
 
@@ -60,7 +60,7 @@ Maintain consistent spacing and alignment.
 Design clean product cards
 Organise multiple sections within a single page.
 
-📬 Author
+ Author
 
 Developed by Muhammad Mustafa Mehtab
 Frontend Developer
