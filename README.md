@@ -52,6 +52,6 @@ The goal of this project was to practice building a complete website layout from
 
 <h3> Author</h3>
 <p>
-Developed by Muhammad Mustafa Mehtab 
+Developed by Muhammad Mustafa Mehtab <br>
 Frontend Developer.
 </p>
